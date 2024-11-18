@@ -1,0 +1,1 @@
+This is my portfolio project which I'm building a machine learning model. This dataset is from Yelp. There are many features here on this project so I'll provide the list of what features are included here.[Yelp Rating Regression Predictor - Feature Descriptions.md](https://github.com/user-attachments/files/17792959/Yelp.Rating.Regression.Predictor.-.Feature.Descriptions.md)
